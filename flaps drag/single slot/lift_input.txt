@@ -1,0 +1,10 @@
+extended chord ratio	=1.18873
+Kf0				=1.05
+deflection angle		=20
+delta_CL1			=1.06
+a1				=5.11
+phi0_inboard		=0.18
+phi1_inboard		=0.427
+phi0_outboard		=0.527
+phi1_outboard		=0.85
+CL				=1.3

@@ -1,0 +1,7 @@
+inboard spoiler plan area			= 8.694
+outboard spoiler plan area 			= 3.251233
+number of outboard spoilers			= 3
+outboard spoiler hinge sweep angle		= 22.3
+spoiler deployment angle 			= 40
+wing gross area					= 69
+frontal flap affected area ( a total of 3 spoiler chords is affected on either side of the spoiler ) = 6.059

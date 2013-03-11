@@ -1,0 +1,6 @@
+specific thrust ratio	= 35.4
+free stream mach number = 0.15
+free windmilling		= y 
+engine diameter			= 1.45
+reference area 			= 100
+engine outer diameter 	= 1.2

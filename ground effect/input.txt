@@ -1,0 +1,10 @@
+aspect ratio			= 10
+lift curve slope		= 4.96
+CL						= 0.7
+height above the ground	= 2.692	
+wing span				= 31.6
+MAC						= 4.6
+maximum t/c of wing		= 0.12
+profile drag			= 255
+induced vortex drag		= 72
+

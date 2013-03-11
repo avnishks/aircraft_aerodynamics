@@ -1,0 +1,15 @@
+inboard flap chord to wing chord ratio		= 0.3
+inboard flap chord to wing chord ratio		= 0.3
+deflection angle inboard ( deltaf) 			= 20
+deflection angle outboard ( deltaf)			= 20
+inboard rear camber ( gamma) 				= 1.948717092
+outboard rear camber (gamma)				= 1.673511344
+quarter chord sweep till kink				= 23
+quarter chord sweep after kink 				= 23
+gross half span of inboard flap till end	= 3.95
+gross half span of outboard flap till end	= 7.9
+gross half span of inboard flap till start	= 3
+gross half span of outboard flap till start	= 3.95
+half span of wing							= 15.81
+taper ratio of unkink gross					= 0
+taper ratio of kink gross					= 0.333
